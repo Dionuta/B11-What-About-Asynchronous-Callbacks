@@ -12,4 +12,4 @@
  
 <h1>Notes</h1>
 Asynchronous - more than one at a time.
-When the exuction stack is empty the javascripts look at the Event Que. If something is there javascripts wait for the event to be triggered. When the event is triggered the exuction context is created. 
+When the execution stack is empty, the javascript look at the Event Queue. If something is their javascript waits for the event to be triggered when that happens the execution context for the event is  created. 
