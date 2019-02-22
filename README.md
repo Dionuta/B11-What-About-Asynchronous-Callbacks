@@ -5,11 +5,11 @@
     
  <ul>
 
-  <li></li>
+  <li>Asynchronous</li>
   <li></li>
 
  </ul>
  
 <h1>Notes</h1>
-
+Asynchronous - more than one at a time.
 
