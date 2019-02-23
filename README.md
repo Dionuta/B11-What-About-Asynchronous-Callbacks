@@ -18,3 +18,5 @@ When the execution stack is empty, the javascript look at the Event Queue. If so
 Dynamic Typing: You don't tell the engine what type of data a variable holds, it figures it out while the code is running.
 
 Variables can hold different types of values because it's all figured out during execution.
+
+Primitive Type: A type of data that repersents a single value. That is, not an object. 
