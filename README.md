@@ -1,4 +1,4 @@
-# B11-What-About-Asynchronous-Callbacks
+# B11-What-About-Asynchronous-Callbacks-And-Types
 <p>A deep dive into the strange world of JavaScript.</p>
 
 <h1>What Was Learned</h1>
@@ -8,6 +8,7 @@
   <li>Asynchronous</li>
   <li>Event Queue</li>
   <li> Dynamic Typing<li>
+  <li>Primitive Type<li>
  </ul>
  
 <h1>Notes</h1>
