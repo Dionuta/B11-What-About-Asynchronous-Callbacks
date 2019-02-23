@@ -32,4 +32,4 @@ Primitive Types:
 
 5. String - a sequence of characters (both '' and "" can be used)
 
-6. Symbol - Used in ES6. 
+6. Symbol - Used in ES6
