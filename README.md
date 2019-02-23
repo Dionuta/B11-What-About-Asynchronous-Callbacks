@@ -25,3 +25,11 @@ Primitive Types:
 1. Undifined - reresents lack of existence.(you shouldn't set a variable to this)
 
 2. Null - reresents lack of existence (you can set a variable to this)
+
+3. Boolean - true or false
+
+4. Number - floating point number (there's aways some decimals.)
+
+5. String - a sequence of characters (both '' and "" can be used)
+
+6. Symbol - Used in ES6. 
