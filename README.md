@@ -19,4 +19,9 @@ Dynamic Typing: You don't tell the engine what type of data a variable holds, it
 
 Variables can hold different types of values because it's all figured out during execution.
 
-Primitive Type: A type of data that repersents a single value. That is, not an object. 
+Primitive Type: A type of data that repersents a single value. That is, not an object.
+
+Primitive Types:
+1. Undifined - reresents lack of existence.(you shouldn't set a variable to this)
+
+2. Null - reresents lack of existence (you can set a variable to this)
